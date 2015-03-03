@@ -1,0 +1,7 @@
+{
+	"name": "angular-routing-practice",
+	"main": "server.js",
+	"dependencies": {
+		"express": "~4.9.1"
+	}
+}
